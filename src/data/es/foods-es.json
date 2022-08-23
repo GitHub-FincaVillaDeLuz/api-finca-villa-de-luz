@@ -1,0 +1,70 @@
+{
+  "information": "Se venden las comidas con previo aviso y según el número de personas",
+  "items": [
+    {
+      "name": "Torillas de queso",
+      "description": "Breve descripción del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Agua dulce",
+      "description": "Breve descripción del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Café, té o chocolate",
+      "description": "Breve descripción del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Arroz con leche",
+      "description": "Breve descripción del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Chicharrón de queso",
+      "description": "Breve descripción del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Picadillo de plátano",
+      "description": "Breve descripción del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Picadillo de chayote",
+      "description": "Breve descripción del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Picadillo de arracache",
+      "description": "Breve descripción del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Pozol",
+      "description": "Breve descripción del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Chicharronada",
+      "description": "Breve descripción del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Vigorones",
+      "description": "Breve descripción del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Casado",
+      "description": "Breve descripción del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Plátanos con queso",
+      "description": "Breve descripción del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    }
+  ]
+}

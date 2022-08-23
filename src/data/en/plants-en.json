@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Cas",
+    "description": "Breve descripción de la Planta",
+    "image": "https://api-finca-villa-de-luz.vercel.app/plants/cas-min.JPG"
+  },
+  {
+    "id": 2,
+    "name": "Peru's Guava",
+    "description": "Breve descripción de la Planta",
+    "image": "https://api-finca-villa-de-luz.vercel.app/plants/guayabitas-min.JPG"
+  },
+  {
+    "id": 3,
+    "name": "Blackberry Morera",
+    "description": "Breve descripción de la Planta",
+    "image": "https://api-finca-villa-de-luz.vercel.app/plants/moras-min.JPG"
+  },
+  {
+    "id": 4,
+    "name": "Blackberry",
+    "description": "Breve descripción de la Planta",
+    "image": "https://api-finca-villa-de-luz.vercel.app/plants/moras2-min.JPG"
+  },
+  {
+    "id": 5,
+    "name": "Onion",
+    "description": "Breve descripción de la Planta",
+    "image": "https://api-finca-villa-de-luz.vercel.app/plants/cebolla-min.JPG"
+  },
+  {
+    "id": 6,
+    "name": "Arum",
+    "description": "Breve descripción de la Planta",
+    "image": "https://api-finca-villa-de-luz.vercel.app/plants/cala-min.JPG"
+  },
+  {
+    "id": 7,
+    "name": "Peach",
+    "description": "Breve descripción de la Planta",
+    "image": "https://api-finca-villa-de-luz.vercel.app/plants/durazno-min.JPG"
+  },
+  {
+    "id": 8,
+    "name": "Guava",
+    "description": "Breve descripción de la Planta",
+    "image": "https://api-finca-villa-de-luz.vercel.app/plants/guayaba-min.JPG"
+  },
+  {
+    "id": 9,
+    "name": "Daisie",
+    "description": "Breve descripción de la Planta",
+    "image": "https://api-finca-villa-de-luz.vercel.app/plants/margarita-min.JPG"
+  },
+  {
+    "id": 10,
+    "name": "Orange",
+    "description": "Breve descripción de la Planta",
+    "image": "https://api-finca-villa-de-luz.vercel.app/plants/naranja-min.JPG"
+  },
+  {
+    "id": 11,
+    "name": "Banana",
+    "description": "Breve descripción de la Planta",
+    "image": "https://api-finca-villa-de-luz.vercel.app/plants/platanos-min.JPG"
+  },
+  {
+    "id": 12,
+    "name": "Roses",
+    "description": "Breve descripción de la Planta",
+    "image": "https://api-finca-villa-de-luz.vercel.app/plants/rosa-min.JPG"
+  },
+  {
+    "id": 13,
+    "name": "Succulents",
+    "description": "Breve descripción de la Planta",
+    "image": "https://api-finca-villa-de-luz.vercel.app/plants/suculentas-min.JPG"
+  }
+]

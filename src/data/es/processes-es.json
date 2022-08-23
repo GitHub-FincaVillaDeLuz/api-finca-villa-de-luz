@@ -1,0 +1,45 @@
+{
+  "information": "Es necesario una descripción de los procesos",
+  "items": [
+    {
+      "name": "Lombricompost",
+      "description": "Breve descripción del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Compostaje",
+      "description": "Breve descripción del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Bocachi",
+      "description": "Breve descripción del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Lixiviados",
+      "description": "Breve descripción del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Abonos foliares",
+      "description": "Breve descripción del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Abono de invernadero",
+      "description": "Breve descripción del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Gallinaza",
+      "description": "Breve descripción del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Estiércol de ovejas compostados",
+      "description": "Breve descripción del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    }
+  ]
+}
