@@ -5,55 +5,55 @@
       "id":1,
       "name": "Animal 1",
       "description": "Breve descripción del animal",
-      "image": "https://random.imagecdn.app/500/150"
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
       "id":2,
       "name": "Animal 2",
       "description": "Breve descripción del animal",
-      "image": "https://random.imagecdn.app/500/150"
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
       "id":3,
       "name": "Animal 3",
       "description": "Breve descripción del animal",
-      "image": "https://random.imagecdn.app/500/150"
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
       "id":4,
       "name": "Animal 4",
       "description": "Breve descripción del animal",
-      "image": "https://random.imagecdn.app/500/150"
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
       "id":5,
       "name": "Animal 5",
       "description": "Breve descripción del animal",
-      "image": "https://random.imagecdn.app/500/150"
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
       "id":6,
       "name": "Animal 6",
       "description": "Breve descripción del animal",
-      "image": "https://random.imagecdn.app/500/150"
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
       "id":7,
       "name": "Animal 7",
       "description": "Breve descripción del animal",
-      "image": "https://random.imagecdn.app/500/150"
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
       "id":8,
       "name": "Animal 8",
       "description": "Breve descripción del animal",
-      "image": "https://random.imagecdn.app/500/150"
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
       "id":9,
       "name": "Animal 9",
       "description": "Breve descripción del animal",
-      "image": "https://random.imagecdn.app/500/150"
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     }
   ]
 }
