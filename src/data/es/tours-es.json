@@ -5,25 +5,25 @@
       "id": 1,
       "name": "Tour familiar",
       "description": "Breve descripción",
-      "image": "https://random.imagecdn.app/500/150"
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
       "id": 2,
       "name": "Tour grupal",
       "description": "Breve descripción",
-      "image": "https://random.imagecdn.app/500/150"
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
       "id": 3,
       "name": "Tour para niños",
       "description": "Breve descripción",
-      "image": "https://random.imagecdn.app/500/150"
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
       "id": 4,
       "name": "Tour mixto",
       "description": "Breve descripción",
-      "image": "https://random.imagecdn.app/500/150"
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     }
   ]
 }
