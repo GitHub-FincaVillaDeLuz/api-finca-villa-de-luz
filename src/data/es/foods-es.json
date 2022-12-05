@@ -2,7 +2,7 @@
   "information": "Se venden las comidas con previo aviso y según el número de personas",
   "items": [
     {
-      "name": "Torillas de queso",
+      "name": "Tortillas de queso",
       "description": "Breve descripción del animal",
       "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
