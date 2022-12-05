@@ -1,26 +1,38 @@
 {
-  "information": "Descripción",
+  "information": "El tour se debe de reservar previamente",
   "items": [
     {
       "id": 1,
-      "name": "Tour familiar",
+      "name": "Tour de Lechería",
       "description": "Breve descripción",
       "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
       "id": 2,
-      "name": "Tour grupal",
+      "name": "Tour de Lechería-Tarde de Café",
       "description": "Breve descripción",
       "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
       "id": 3,
-      "name": "Tour para niños",
+      "name": "Tour familiar",
       "description": "Breve descripción",
       "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
       "id": 4,
+      "name": "Tour grupal",
+      "description": "Breve descripción",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tour para niños",
+      "description": "Breve descripción",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "id": 6,
       "name": "Tour mixto",
       "description": "Breve descripción",
       "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"

@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\controllers\\animal",
+    "\\src\\data",
+    "\\src\\data\\en",
+    "\\src\\data\\es",
+    "\\src\\images",
+    "\\src\\routes"
   ],
-  "SelectedNode": "\\C:\\Users\\juanp\\Source\\Repos\\api-finca-villa-de-luz",
+  "SelectedNode": "\\src\\data\\es\\foods-es.json",
   "PreviewInSolutionExplorer": false
 }
