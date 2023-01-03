@@ -27,13 +27,13 @@
     },
     {
       "id": 5,
-      "name": "Tour para niños",
+      "name": "Tour mixto",
       "description": "Breve descripción",
       "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
       "id": 6,
-      "name": "Tour mixto",
+      "name": "Tour para niños",
       "description": "Breve descripción",
       "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     }
