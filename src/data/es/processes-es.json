@@ -2,22 +2,7 @@
   "information": "Todos los procesos que se realizan en la finca tienen como objetivo sustentar al lugar con la producción de alimentos, fertilizantes, productos básicos y entre más. Esto brinda una seguridad alimentaria al lugar, asimismo logramos contribuir un aporte al entorno garantizando una estabilidad y equidad al medio ambiente.",
   "items": [
     {
-      "name": "Lombricompost",
-      "description": "Breve descripción del Proceso",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
-    },
-    {
-      "name": "Compostaje",
-      "description": "Breve descripción del Proceso",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
-    },
-    {
-      "name": "Bocachi",
-      "description": "Breve descripción del Proceso",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
-    },
-    {
-      "name": "Lixiviados",
+      "name": "Abono de invernadero",
       "description": "Breve descripción del Proceso",
       "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
@@ -27,7 +12,17 @@
       "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
-      "name": "Abono de invernadero",
+      "name": "Bocachi",
+      "description": "Breve descripción del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Compostaje",
+      "description": "Breve descripción del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Estiércol de ovejas compostados",
       "description": "Breve descripción del Proceso",
       "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
@@ -37,7 +32,12 @@
       "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     },
     {
-      "name": "Estiércol de ovejas compostados",
+      "name": "Lixiviados",
+      "description": "Breve descripción del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Lombricompost",
       "description": "Breve descripción del Proceso",
       "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
     }
