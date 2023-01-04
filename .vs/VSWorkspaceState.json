@@ -1,14 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\src",
-    "\\src\\controllers\\animal",
-    "\\src\\data",
-    "\\src\\data\\en",
-    "\\src\\data\\es",
-    "\\src\\images",
-    "\\src\\routes"
+    ""
   ],
-  "SelectedNode": "\\src\\data\\es\\foods-es.json",
+  "SelectedNode": "\\C:\\Users\\juanp\\OneDrive\\Escritorio\\API",
   "PreviewInSolutionExplorer": false
 }
