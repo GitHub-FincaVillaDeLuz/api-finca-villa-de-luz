@@ -1,4 +1,4 @@
-const tours = require('../../data/es/tours-es.json')
+const tours = require('../../../data/es/tours-es.json')
 const { join } = require('path')
 const editor = require('edit-json-file')
 

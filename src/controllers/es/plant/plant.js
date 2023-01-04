@@ -1,5 +1,5 @@
-const esPlants = require('../../data/es/plants-es.json')
-const enPlants = require('../../data/en/plants-en.json')
+const esPlants = require('../../../data/es/plants-es.json')
+const enPlants = require('../../../data/en/plants-en.json')
 
 const { join } = require('path')
 const editor = require('edit-json-file')

@@ -10,14 +10,6 @@ const animal = require('../controllers/es/animal/animal')
 const processes = require('../controllers/es/process/process')
 
 //Routes English
-/*
-const home = require('../controllers/home/home')
-const tour = require('../controllers/tour/tour')
-const food = require('../controllers/food/food')
-const plant = require('../controllers/plant/plant')
-const animal = require('../controllers/animal/animal')
-const processes = require('../controllers/process/process') 
- */
 
 
 router.get('/', (req, res) => {

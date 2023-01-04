@@ -1,4 +1,4 @@
-const processes = require('../../data/es/processes-es.json')
+const processes = require('../../../data/es/processes-es.json')
 const { join } = require('path')
 const editor = require('edit-json-file')
 

@@ -1,5 +1,5 @@
-const home = require('../../data/es/home-es.json')
-const db = require('../../data/index')
+const home = require('../../../data/es/home-es.json')
+const db = require('../../../data/index')
 
 const getHome = (req, res, next) => {
   try {

@@ -1,4 +1,4 @@
-const animals = require('../../data/es/animals-es.json')
+const animals = require('../../../data/es/animals-es.json')
 const { join } = require('path')
 const editor = require('edit-json-file')
 
