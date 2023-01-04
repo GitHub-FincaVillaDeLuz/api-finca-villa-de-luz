@@ -10,6 +10,12 @@ const animal = require('../controllers/es/animal/animal')
 const processes = require('../controllers/es/process/process')
 
 //Routes English
+const homeEN = require('../controllers/en/home/home-en')
+const tourEN = require('../controllers/en/tour/tour-en')
+const foodEN = require('../controllers/en/food/food-en')
+const plantEN = require('../controllers/en/plant/plant-en')
+const animalEN = require('../controllers/en/animal/animal-en')
+const processesEN = require('../controllers/en/process/process-en')
 
 
 router.get('/', (req, res) => {
@@ -18,29 +24,50 @@ router.get('/', (req, res) => {
   })
 })
 
-//Home
+/////////////////////////////////////////////////////////////// SPANISH
 
+//HomeES
 router.get('/home', home.getHome)
 router.put('/home', home.putHome)
 
-//Tour
-
+//TourES
 router.get('/tours', tour.getTours)
 
-//Foods
-
+//FoodsES
 router.get('/foods', food.getFoods)
 
-//Plants
-
+//PlantsES
 router.get('/plants', plant.getPlants)
 
-//Animals
+//Animals ES
 
 router.get('/animals', animal.getAnimals)
 
-//Processes
-
+//Processes ES
 router.get('/processes', processes.getProcesses)
+
+/////////////////////////////////////////////////////////////// ENGLISH
+
+//HomeEN
+//router.get('/home', homeEN.getHome)
+//router.put('/home', homeEN.putHome)
+
+//TourEN
+//router.get('/tours', tourEN.getTours)
+
+//FoodsEN
+//router.get('/foods', foodEN.getFoods)
+
+//PlantsEN
+//router.get('/plants', plantEN.getPlants)
+
+//AnimalsEN
+//router.get('/animals', animalEN.getAnimals)
+
+//ProcessesEN
+//router.get('/processes', processesEN.getProcesses)
+
+
+/////////////////////////////////////////////////////////////// OTHER
 
 module.exports = router
