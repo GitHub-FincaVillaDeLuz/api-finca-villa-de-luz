@@ -2,12 +2,12 @@ const { Router } = require('express')
 const router = Router()
 
 //Routes Spanish
-const home = require('../controllers/home/home')
-const tour = require('../controllers/tour/tour')
-const food = require('../controllers/food/food')
-const plant = require('../controllers/plant/plant')
-const animal = require('../controllers/animal/animal')
-const processes = require('../controllers/process/process')
+const home = require('../controllers/es/home/home')
+const tour = require('../controllers/es/tour/tour')
+const food = require('../controllers/es/food/food')
+const plant = require('../controllers/es/plant/plant')
+const animal = require('../controllers/es/animal/animal')
+const processes = require('../controllers/es/process/process')
 
 //Routes English
 /*
