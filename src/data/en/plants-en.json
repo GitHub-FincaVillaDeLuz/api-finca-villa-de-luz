@@ -1,80 +1,365 @@
-[
-  {
-    "id": 1,
-    "name": "Cas",
-    "description": "Breve descripción de la Planta",
-    "image": "https://api-finca-villa-de-luz.vercel.app/plants/cas-min.JPG"
-  },
-  {
-    "id": 2,
-    "name": "Peru's Guava",
-    "description": "Breve descripción de la Planta",
-    "image": "https://api-finca-villa-de-luz.vercel.app/plants/guayabitas-min.JPG"
-  },
-  {
-    "id": 3,
-    "name": "Blackberry Morera",
-    "description": "Breve descripción de la Planta",
-    "image": "https://api-finca-villa-de-luz.vercel.app/plants/moras-min.JPG"
-  },
-  {
-    "id": 4,
-    "name": "Blackberry",
-    "description": "Breve descripción de la Planta",
-    "image": "https://api-finca-villa-de-luz.vercel.app/plants/moras2-min.JPG"
-  },
-  {
-    "id": 5,
-    "name": "Onion",
-    "description": "Breve descripción de la Planta",
-    "image": "https://api-finca-villa-de-luz.vercel.app/plants/cebolla-min.JPG"
-  },
-  {
-    "id": 6,
-    "name": "Arum",
-    "description": "Breve descripción de la Planta",
-    "image": "https://api-finca-villa-de-luz.vercel.app/plants/cala-min.JPG"
-  },
-  {
-    "id": 7,
-    "name": "Peach",
-    "description": "Breve descripción de la Planta",
-    "image": "https://api-finca-villa-de-luz.vercel.app/plants/durazno-min.JPG"
-  },
-  {
-    "id": 8,
-    "name": "Guava",
-    "description": "Breve descripción de la Planta",
-    "image": "https://api-finca-villa-de-luz.vercel.app/plants/guayaba-min.JPG"
-  },
-  {
-    "id": 9,
-    "name": "Daisie",
-    "description": "Breve descripción de la Planta",
-    "image": "https://api-finca-villa-de-luz.vercel.app/plants/margarita-min.JPG"
-  },
-  {
-    "id": 10,
-    "name": "Orange",
-    "description": "Breve descripción de la Planta",
-    "image": "https://api-finca-villa-de-luz.vercel.app/plants/naranja-min.JPG"
-  },
-  {
-    "id": 11,
-    "name": "Banana",
-    "description": "Breve descripción de la Planta",
-    "image": "https://api-finca-villa-de-luz.vercel.app/plants/platanos-min.JPG"
-  },
-  {
-    "id": 12,
-    "name": "Roses",
-    "description": "Breve descripción de la Planta",
-    "image": "https://api-finca-villa-de-luz.vercel.app/plants/rosa-min.JPG"
-  },
-  {
-    "id": 13,
-    "name": "Succulents",
-    "description": "Breve descripción de la Planta",
-    "image": "https://api-finca-villa-de-luz.vercel.app/plants/suculentas-min.JPG"
-  }
-]
+{
+  "information": "The species, flowers, fruits, flowers and vegetables that can be found on the farm, show how fertile our lands are and also these are not treated with agrochemicals so they are 100% natural.",
+  "items": [
+    {
+      "name": "Basil",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Castille coriander",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Culantro Coyote",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Curri",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Oregano",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Parsley",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Romero",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Thyme",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Tucuico",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Anthuriums",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/plants/anturio-min.JPG"
+    },
+    {
+      "name": "Coves",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/plants/cala-min.JPG"
+    },
+    {
+      "name": "Margaritas",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/plants/margarita-min.JPG"
+    },
+    {
+      "name": "Roses",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/plants/rosa-min.JPG"
+    },
+    {
+      "name": "Succulents",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/plants/suculentas-min.JPG"
+    },
+    {
+      "name": "Anona",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Blueberries",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Arasa",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Banano",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Cas",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/plants/cas-min.JPG"
+    },
+    {
+      "name": "Peaches",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/plants/durazno-min.JPG"
+    },
+    {
+      "name": "Guayaba",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/plants/guayaba-min.JPG"
+    },
+    {
+      "name": "Guayabitas de Perú",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/plants/guayabitas-min.JPG"
+    },
+    {
+      "name": "Lemon",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Tangerine",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Berries",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/plants/moras2-min.JPG"
+    },
+    {
+      "name": "Mulberries",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/plants/moras-min.JPG"
+    },
+    {
+      "name": "Ornages",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/plants/naranja-min.JPG"
+    },
+    {
+      "name": "Naranja agria",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Naranjilla",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Papaya",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Uchuva",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Agua Florida",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Altamisa",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Coffee",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Citronella",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Dandelion",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Estragon",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Bean",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Gavilana",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Mint",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Mint with lemon",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Insulin",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Juanilama",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Lavender",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Corn",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Malva Rosa",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Matasano",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Ruda",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Aloe",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Sauco",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Linden",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Verbeno",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Yantel",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Lemon grass",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Avocado",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Chili",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Celery",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Arracache",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Onions",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/plants/cebolla-min.JPG"
+    },
+    {
+      "name": "Chives",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Chayotes",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Sweet chili",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Purple Kalé",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Green Kalé",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Lettuce",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Platain",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/plants/platanos-min.JPG"
+    },
+    {
+      "name": "Beet",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Cabbage",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Air tomatoes",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Vainica",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Yucca",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Zucchini",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    }
+  ]
+}

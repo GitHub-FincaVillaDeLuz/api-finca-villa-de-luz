@@ -1,0 +1,59 @@
+{
+  "information": "The animals that can be found on the farm are raised right here in an open and safe environment. We also believe in a world where animal welfare matters and cruelty to animals ends forever, so we care for the animals with love and affection.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Animal 1",
+      "description": "Breve descripcion del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Animal 2",
+      "description": "Breve descripcion del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Animal 3",
+      "description": "Breve descripcion del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Animal 4",
+      "description": "Breve descripcion del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Animal 5",
+      "description": "Breve descripcion del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Animal 6",
+      "description": "Breve descripcion del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Animal 7",
+      "description": "Breve descripcion del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Animal 8",
+      "description": "Breve descripcion del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Animal 9",
+      "description": "Breve descripcion del animal",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    }
+  ]
+}

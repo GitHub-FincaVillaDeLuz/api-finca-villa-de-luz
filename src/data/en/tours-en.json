@@ -1,0 +1,41 @@
+{
+  "information": "Tours should be reserved in prior notification, since each tour has a different price and duration, and there are also some tours that include food, so you should prepare in advance.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Lechería Tour",
+      "description": "Breve descripci�n",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lechería-Tarde de Café Tour",
+      "description": "Breve descripci�n",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Family tour",
+      "description": "Breve descripci�n",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Group tour",
+      "description": "Breve descripci�n",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mixed Tour",
+      "description": "Breve descripci�n",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Children's tour",
+      "description": "Breve descripci�n",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    }
+  ]
+}

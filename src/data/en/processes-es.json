@@ -1,0 +1,45 @@
+{
+  "information": "All the processes done in the farm have the objective of sustaining the place with the production of food, fertilizers, basic products and more. This provides food security to the place, also we contribute to the environment ensuring stability and equity to the environment.",
+  "items": [
+    {
+      "name": "Greenhouse fertilizer",
+      "description": "Breve descripci�n del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Foliar fertilizers",
+      "description": "Breve descripci�n del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Bocachi",
+      "description": "Breve descripci�n del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Composting",
+      "description": "Breve descripci�n del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Composted Sheep Manure",
+      "description": "Breve descripci�n del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Chicken manure",
+      "description": "Breve descripci�n del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Lixiviates",
+      "description": "Breve descripci�n del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    },
+    {
+      "name": "Vermicompost",
+      "description": "Breve descripci�n del Proceso",
+      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+    }
+  ]
+}
