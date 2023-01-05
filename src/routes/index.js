@@ -49,23 +49,23 @@ router.get('/processes', processes.getProcesses)
 /////////////////////////////////////////////////////////////// ENGLISH
 
 //HomeEN
-//router.get('/home', homeEN.getHome)
-//router.put('/home', homeEN.putHome)
+router.get('/homeEN', homeEN.getHome)
+router.put('/homeEN', homeEN.putHome)
 
 //TourEN
-//router.get('/tours', tourEN.getTours)
+router.get('/toursEN', tourEN.getTours)
 
 //FoodsEN
-//router.get('/foods', foodEN.getFoods)
+router.get('/foodsEN', foodEN.getFoods)
 
 //PlantsEN
-//router.get('/plants', plantEN.getPlants)
+router.get('/plantsEN', plantEN.getPlants)
 
 //AnimalsEN
-//router.get('/animals', animalEN.getAnimals)
+router.get('/animalsEN', animalEN.getAnimals)
 
 //ProcessesEN
-//router.get('/processes', processesEN.getProcesses)
+router.get('/processesEN', processesEN.getProcesses)
 
 
 /////////////////////////////////////////////////////////////// OTHER
