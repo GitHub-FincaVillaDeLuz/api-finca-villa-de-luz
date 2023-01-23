@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\data",
+    "\\src\\images"
   ],
-  "SelectedNode": "\\C:\\Users\\juanp\\OneDrive\\Escritorio\\API",
+  "SelectedNode": "\\src\\data\\es",
   "PreviewInSolutionExplorer": false
 }
