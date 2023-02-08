@@ -1,7 +1,9 @@
 {
   "history": "La empresa Villa de la Luz es una Pyme de capital completamente costarricense y la cual nace en Guayabo, Santa Cruz de Turrialba en el año 2015. La propietaria de la empresa son una maestra pensionada de nombre Cristina Casasola Pereira santacruceña de puro corazón y de una familia de ganaderos, donde desde sus inicios se han dedicado a la crianza de ganado lechero y a la realización de queso y a la vez a la comercialización de este desde muy pequeña, vivió rodeada de estas actividades las cuales le han apasionado desde muy niña, siempre anduvo con su padre ayudándole en el ordeño, cuido de los animales, realización del queso, entre otros.",
-  "mission": "Esto es un ejemplo de misión",
-  "vision": "Esto es un ejemplo de visión",
+  "mission": "Somos una finca agroturística en Santa Teresita de Turrialba que trabaja en el sector agropecuario integrando la ganadería, la agricultura y el turismo con el fin de brindarle a las cositas una experiencia que brinda satisfacción y un conocimiento general de lo que se realiza en el empredimiento.",
+  "vision": "Ser un destino turístico rural en santa teresita de turrialba como una finca agrotustira sostenible que brinde una experiencia integral y satisfacción progresiva a los visitantes mediante los productos elaborados en el emprendimiento y al mismo tiempo que fortalezca el desarrollo comunal.",
+  "objective": "Ejemplo de Objetivo General.",
+  "values": "Ejemplos de Valores.",
   "contacts" : [
     {"name": "Cristina", "phone": "8376-5760", "email": "criscasasola@hotmail.com"},
     {"name": "Johan", "phone": "8472-5422", "email": "casasolajohan@gmail.com"}
