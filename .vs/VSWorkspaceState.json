@@ -3,13 +3,12 @@
     "",
     "\\src",
     "\\src\\controllers",
-    "\\src\\controllers\\es",
-    "\\src\\controllers\\es\\about",
-    "\\src\\controllers\\es\\animal",
+    "\\src\\controllers\\es\\home",
     "\\src\\data",
     "\\src\\data\\es",
     "\\src\\images",
     "\\src\\routes"
   ],
+  "SelectedNode": "\\src\\data\\es\\tours-es.json",
   "PreviewInSolutionExplorer": false
 }
