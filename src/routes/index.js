@@ -5,6 +5,9 @@ const router = Router()
 const home = require('../controllers/es/home/home')
 const tour = require('../controllers/es/tour/tour')
 const food = require('../controllers/es/food/food')
+
+const animalsPlants = require('../controllers/es/animals-plants/animals-plants')
+
 const plant = require('../controllers/es/plant/plant')
 const animal = require('../controllers/es/animal/animal')
 const processes = require('../controllers/es/process/process')
@@ -37,12 +40,17 @@ router.get('/tours', tour.getTours)
 //FoodsES
 router.get('/foods', food.getFoods)
 
+
+//AnimalsPlantsES
+router.get('/animalsplants', animalsPlants.getAnimalsPlants)
+
+////********************************************
 //PlantsES
 router.get('/plants', plant.getPlants)
-
 //Animals ES
-
 router.get('/animals', animal.getAnimals)
+///*******************************************
+
 
 //Processes ES
 router.get('/processes', processes.getProcesses)
