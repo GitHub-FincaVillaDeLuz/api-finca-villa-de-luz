@@ -4,10 +4,12 @@
     "\\src",
     "\\src\\controllers",
     "\\src\\controllers\\es",
+    "\\src\\controllers\\es\\socialAction",
     "\\src\\data",
+    "\\src\\data\\es",
     "\\src\\images",
     "\\src\\routes"
   ],
-  "SelectedNode": "\\src\\data\\es",
+  "SelectedNode": "\\src\\data\\es\\socialAction-es.json",
   "PreviewInSolutionExplorer": false
 }
