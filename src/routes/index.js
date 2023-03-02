@@ -11,7 +11,7 @@ const animalsPlants = require('../controllers/es/animals-plants/animals-plants')
 const plant = require('../controllers/es/plant/plant')
 const animal = require('../controllers/es/animal/animal')
 const processes = require('../controllers/es/process/process')
-const about = require('../controllers/es/about/about')
+const socialAction = require('../controllers/es/socialAction/socialAction')
 
 //Routes English
 const homeEN = require('../controllers/en/home/home-en')
@@ -56,7 +56,7 @@ router.get('/animals', animal.getAnimals)
 router.get('/processes', processes.getProcesses)
 
 //About ES
-router.get('/about', about.getAbout)
+router.get('/socialAction', socialAction.getSocialAction)
 
 /////////////////////////////////////////////////////////////// ENGLISH
 
