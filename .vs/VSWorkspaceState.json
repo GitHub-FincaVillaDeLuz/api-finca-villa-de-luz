@@ -7,7 +7,9 @@
     "\\src\\data",
     "\\src\\data\\es",
     "\\src\\images",
+    "\\src\\images\\tours",
     "\\src\\routes"
   ],
+  "SelectedNode": "\\src\\routes\\index.js",
   "PreviewInSolutionExplorer": false
 }
