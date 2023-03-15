@@ -4,18 +4,18 @@
   ,"items": [
     {
       "name": "Trabajo Comunal UCR",
-      "description": "Breve descripción del trabajo",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+      "description": "Trabajo en la huerta",
+      "image": "https://api-finca-villa-de-luz.vercel.app/socialAction/ucr1.jpeg"
     },
     {
       "name": "Trabajo Comunal UCR",
-      "description": "Breve descripción del trabajo",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+      "description": "Arreglos en la Granjita",
+      "image": "https://api-finca-villa-de-luz.vercel.app/socialAction/ucr2.jpeg"
     },
     {
       "name": "Trabajo Comunal UCR",
-      "description": "Breve descripción del trabajo",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+      "description": "Arreglos en la Granjita",
+      "image": "https://api-finca-villa-de-luz.vercel.app/socialAction/ucr3.jpeg"
     }
   ]
 }
