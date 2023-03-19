@@ -4,32 +4,32 @@
     {
       "name": "Vacas",
       "description": "Breve descripción del Animal",
-      "image": "https://api-finca-villa-de-luz-pi.vercel.app/social/vaca.JPG"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/vaca.JPG"
     },
     {
       "name": "Terneros",
       "description": "Breve descripción del Animal",
-      "image": "https://api-finca-villa-de-luz-pi.vercel.app/social/terneros.JPG"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/ternero.JPG"
     },
     {
       "name": "Cerdos",
       "description": "Breve descripción del Animal",
-      "image": "https://api-finca-villa-de-luz-pi.vercel.app/social/cerdos.jpeg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/cerdos.jpeg"
     },
     {
       "name": "Cerdo de Granjita",
       "description": "Breve descripción del Animal",
-      "image": "https://api-finca-villa-de-luz-pi.vercel.app/social/chancho.jpeg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/chancho.jpeg"
     },
     {
       "name": "Ovejas",
       "description": "Breve descripción del Animal",
-      "image": "https://api-finca-villa-de-luz-pi.vercel.app/social/oveja.JPG"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/oveja.JPG"
     },
     {
       "name": "Cabras",
       "description": "Breve descripción del Animal",
-      "image": "https://api-finca-villa-de-luz-pi.vercel.app/social/cabra.jpg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/cabra.jpg"
     },
     {
       "name": "Albahaca",
