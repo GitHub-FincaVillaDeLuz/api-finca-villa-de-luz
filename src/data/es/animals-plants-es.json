@@ -24,12 +24,12 @@
     {
       "name": "Ovejas",
       "description": "Breve descripción del Animal",
-      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/oveja.JPG"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/oveja.jpg"
     },
     {
       "name": "Cabras",
       "description": "Breve descripción del Animal",
-      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/cabra.JPG"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/cabra.jpg"
     },
     {
       "name": "Albahaca",
