@@ -99,7 +99,7 @@
     {
       "name": "Kalé verde",
       "description": "Breve descripción de la Planta",
-      "image": "https://api-finca-villa-de-luz.vercel.app/plants/kale.jpg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/plants/kale.jpg"
     },
     {
       "name": "Plátano",
