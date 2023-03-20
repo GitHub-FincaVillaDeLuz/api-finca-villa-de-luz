@@ -34,22 +34,22 @@
     {
       "name": "Guaria",
       "description": "Breve descripción de la Planta",
-      "image": "https://api-finca-villa-de-luz.vercel.app/plants/guaria.jpg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/plants/guaria.jpg"
     },
     {
       "name": "Amapola",
       "description": "Breve descripción de la Planta",
-      "image": "https://api-finca-villa-de-luz.vercel.app/plants/amapola.jpg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/plants/amapola.jpg"
     },
     {
       "name": "Matrimonio",
       "description": "Breve descripción de la Planta",
-      "image": "https://api-finca-villa-de-luz.vercel.app/plants/matrimonio.jpg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/plants/matrimonio.jpg"
     },
     {
       "name": "Chinas",
       "description": "Breve descripción de la Planta",
-      "image": "https://api-finca-villa-de-luz.vercel.app/plants/chinas.JPG"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/plants/chinas.JPG"
     },
     {
       "name": "Anturios",
