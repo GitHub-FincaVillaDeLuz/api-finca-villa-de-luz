@@ -4,22 +4,17 @@
     {
       "name": "Abono de invernadero",
       "description": "Breve descripción del Proceso",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+      "image": "https://api-finca-villa-de-luz.vercel-pi.app/ambiental/abono.jpg"
     },
     {
-      "name": "Compostaje",
+      "name": "Lixiviados",
       "description": "Breve descripción del Proceso",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
-    },
-    {
-      "name": "Estiércol de ovejas compostados",
-      "description": "Breve descripción del Proceso",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+      "image": "https://api-finca-villa-de-luz.vercel-pi.app/ambiental/lixiviados.jpg"
     },
     {
       "name": "Lombricompost",
       "description": "Breve descripción del Proceso",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+      "image": "https://api-finca-villa-de-luz.vercel-pi.app/ambiental/lombricompost.jpg"
     }
   ]
 }
