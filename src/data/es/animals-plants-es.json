@@ -1,10 +1,10 @@
 {
   "information": "Admira la belleza de la flora de nuestra finca y siente la magia de la vida del campo rodeado de animales típicos de la zona que llenan el corazón de una inexplicable alegría.",
   "items": [
-    {
+    { 
       "name": "Vacas",
       "description": "Breve descripción del Animal",
-      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/vaca.jpg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/vaca.JPG"
     },
     {
       "name": "Terneros",
