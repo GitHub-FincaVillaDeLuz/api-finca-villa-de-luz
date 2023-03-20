@@ -12,6 +12,26 @@
       "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/terneros.jpg"
     },
     {
+      "name": "Patos",
+      "description": "Breve descripción del Animal",
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/patos.jpg"
+    },
+    {
+      "name": "Gallinas",
+      "description": "Breve descripción del Animal",
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/gallinas.jpg"
+    },
+    {
+      "name": "Chompipe",
+      "description": "Breve descripción del Animal",
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/chompipe.JPG"
+    },
+    {
+      "name": "Gallos",
+      "description": "Breve descripción del Animal",
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/gallos.JPG"
+    },
+    {
       "name": "Cerdos",
       "description": "Breve descripción del Animal",
       "image": "https://api-finca-villa-de-luz-pi.vercel.app/animals/cerdos.jpeg"
