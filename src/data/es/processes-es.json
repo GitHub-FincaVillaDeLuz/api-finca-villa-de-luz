@@ -4,17 +4,17 @@
     {
       "name": "Abono de invernadero",
       "description": "Breve descripción del Proceso",
-      "image": "https://api-finca-villa-de-luz.vercel-pi.app/ambiental/abono.jpg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/ambiental/abono.jpg"
     },
     {
       "name": "Lixiviados",
       "description": "Breve descripción del Proceso",
-      "image": "https://api-finca-villa-de-luz.vercel-pi.app/ambiental/lixiviados.jpg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/ambiental/lixiviados.jpg"
     },
     {
       "name": "Lombricompost",
       "description": "Breve descripción del Proceso",
-      "image": "https://api-finca-villa-de-luz.vercel-pi.app/ambiental/lombricompost.jpg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/ambiental/lombricompost.jpg"
     }
   ]
 }
