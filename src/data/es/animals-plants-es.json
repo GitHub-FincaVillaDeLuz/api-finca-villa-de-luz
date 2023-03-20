@@ -52,6 +52,16 @@
       "image": "https://api-finca-villa-de-luz.vercel.app/plants/rosa-min.JPG"
     },
     {
+      "name": "Lirio",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/plants/lirio.jpg"
+    },
+    {
+      "name": "Hortensia",
+      "description": "Breve descripción de la Planta",
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/plants/hortensia.jpg"
+    },
+    {
       "name": "Suculentas",
       "description": "Breve descripción de la Planta",
       "image": "https://api-finca-villa-de-luz.vercel.app/plants/suculentas-min.JPG"
