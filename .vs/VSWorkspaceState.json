@@ -2,15 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\controllers\\es",
-    "\\src\\controllers\\es\\animals-plants",
-    "\\src\\controllers\\es\\socialAction",
     "\\src\\data",
     "\\src\\data\\es",
     "\\src\\images",
-    "\\src\\images\\social",
+    "\\src\\images\\animals",
     "\\src\\routes"
   ],
-  "SelectedNode": "\\src\\data\\es\\socialAction-es.json",
+  "SelectedNode": "\\src\\images\\animals\\patos.jpg",
   "PreviewInSolutionExplorer": false
 }

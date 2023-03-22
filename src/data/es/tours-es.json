@@ -5,37 +5,37 @@
       "id": 1,
       "name": "Tour de Lechería",
       "description": "El Tour de Lechería incluye: Tour de ordeño, Charlas Temáticas, Protocolos, Tour Elaboración del Queso, Degustaciones durante los procesos, Degustaciones Villa de Luz y una Presentación final. Asimismo este tour tiene una duración de 2 horas con 30 minutos, para un costo de 8000 mil colones por persona para los nacionales y para los extranjeros 10000 mil colones por persona. ",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/tours/tourlecheria.png"
     },
     {
       "id": 2,
       "name": "Tour de Lechería-Tarde de Café",
       "description": "El Tour de Lechería-Tarde de Café incluye: Tour de ordeño, Charlas Temáticas, Protocolos, Tour Elaboración del Queso, Degustaciones durante los procesos, Degustaciones Villa de Luz y una Presentación final. También incluye una deliciosa merienda de la tarde, la cual trae café-aguadulce o té y acompañado de una tortilla de queso . Asimismo este tour tiene una duración de 2 horas con 30 minutos, para un costo de 8000 mil colones por persona para los nacionales y para los extranjeros 10000 mil colones por persona. ",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/tours/tourlecheria2.png"
     },
     {
       "id": 3,
       "name": "Tour familiar",
       "description": "El Tour Familiar incluye: Tour de ordeño, Charlas Temáticas, Protocolos, Tour Elaboración del Queso, Degustaciones durante los procesos, Degustaciones Villa de Luz y una Presentación final. Asimismo este tour tiene una duración de 2 horas con 30 minutos, para un costo de 8000 mil colones por persona para los nacionales y para los extranjeros 10000 mil colones por persona. ",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/tours/tourfamiliar.png"
     },
     {
       "id": 4,
       "name": "Tour grupal",
       "description": "El Tour Grupal incluye: Tour de ordeño, Charlas Temáticas, Protocolos, Tour Elaboración del Queso, Degustaciones durante los procesos, Degustaciones Villa de Luz y una Presentación final. Asimismo este tour tiene una duración de 2 horas con 30 minutos, para un costo de 8000 mil colones por persona para los nacionales y para los extranjeros 10000 mil colones por persona. ",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/tours/tourgrupal.png"
     },             
     {
       "id": 5,
       "name": "Tour mixto",
       "description": "El Tour Mixto incluye: Tour de ordeño, Charlas Temáticas, Protocolos, Tour Elaboración del Queso, Degustaciones durante los procesos, Degustaciones Villa de Luz y una Presentación final. Asimismo este tour tiene una duración de 2 horas con 30 minutos, para un costo de 8000 mil colones por persona para los nacionales y para los extranjeros 10000 mil colones por persona.",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/tours/tourmixto.png"
     },
     {
       "id": 6,
       "name": "Tour para niños",
       "description": "El Tour para niños incluye: Tour de ordeño, Charlas Temáticas, Protocolos, Tour Elaboración del Queso, Degustaciones durante los procesos, Degustaciones Villa de Luz y una Presentación final. Asimismo este tour tiene una duración de 2 horas con 30 minutos, para un costo de 8000 mil colones por persona para los nacionales y para los extranjeros 10000 mil colones por persona. ",
-      "image": "https://api-finca-villa-de-luz.vercel.app/no-content.jpg"
+      "image": "https://api-finca-villa-de-luz-pi.vercel.app/tours/tourparaninos.png"
     }
   ]
 }
